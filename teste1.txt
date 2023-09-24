@@ -1,3 +1,5 @@
 Linha1 teste
 Linha2 teste
 Linha3 teste
+
+Estudando Git

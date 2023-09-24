@@ -1,5 +1,5 @@
-Linha1 teste 123123 teste
-Linha2 teste 1324132 teste
-Linha3 teste
+Linha1 teste 123123 teste testando
+Linha2 teste 1324132 teste testando
+Linha3 teste testando
 
 Estudando Git
